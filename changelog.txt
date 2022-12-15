@@ -1,2 +1,6 @@
 [B]0.0.0[/B]
 - An example changelog entry!
+[B]0.0.0[/B]
+- Old Release
+[B]1.0.2[/B]
+- Python 3 fixed
