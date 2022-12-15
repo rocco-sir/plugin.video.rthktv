@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="plugin.video.rthktv" name="RTHK TV" version="1.0.1" provider-name="Kenelm Ng">
+<addon id="plugin.video.rthktv" name="RTHK TV" version="1.0.2" provider-name="RTHK">
     <requires>
-        <import addon="xbmc.python" version="2.1.0"/>
+        <import addon="xbmc.python" version="3.0.0"/>
     </requires>
     <extension point="xbmc.python.pluginsource" library="addon.py">
         <provides>video</provides> <!-- remember to also change this accordingly you your plugin! -->
@@ -11,8 +11,12 @@
         <summary lang="en">RTHK TV</summary>        
         <description lang="en">RTHK TV</description>
         <license>Unlicence</license>
-        <source>http://kenelm.happyforever.com</source>
-        <website>http://kenelm.happyforever.com</website>
-        <email>kenelm.ng@gmail.com</email>
+        <source>http://github.com/rocco-sir</source>
+        <website>http://github.com/rocco-sir</website>
+        <email>nil@nil</email>
+        <assets>
+        <icon>resources/icon.png</icon>
+        <fanart>resources/fanart.jpg</fanart>
+        </assets>
     </extension>
 </addon>
