@@ -6,7 +6,7 @@ addon = xbmcaddon.Addon()
 
 # RTHK TV 31
 rthktv31 = "https://www.rthk.hk/feeds/dtt/rthktv31_https.m3u8"
-# RTHK TV 31
+# RTHK TV 32
 rthktv32 = "https://www.rthk.hk/feeds/dtt/rthktv32_https.m3u8"
 
 item31 = xbmcgui.ListItem('RTHK TV 31')
